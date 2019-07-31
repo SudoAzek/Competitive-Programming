@@ -27,4 +27,31 @@ Explanation:
 Testcase 1: LCM and GCD of given numbers 5 and 10 are: 10 and 5.
 
 
-#2 LCM And GCD ************************************************************************************************************
+#2 Check if the number is Fibonacci ****************************************************************************************
+
+Check if a given number is Fibonacci number. Fibonacci number is a number which occurs in Fibonacci series.
+
+Input:
+The first line of input contains an integer T denoting the number of test cases.
+Each test case contains a number.
+
+Output:
+Print "Yes" if the entered number is Fibonacci number else "No".
+ 
+Constraints:
+1<=t<=100
+1<=n<=100
+
+Example:
+
+Input
+2
+34
+41
+
+Output
+Yes
+No
+
+
+#3  ****************************************************************************************
